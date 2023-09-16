@@ -11,22 +11,48 @@ nav {
 	border-bottom: 2px solid rgba(60, 119, 163, 1);
 }
 
+
+
 ol {
 	padding-left: 0;
 }
 
+
+
 .crumb {
-	margin-right: 2em;
-	display: inline;
+	margin-right: 8px;
+	display: inline-block;
 }
 
-a {
+li a {
+	display: block;
+	color: #111;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	background-color: white;
+
+}
+
+li a:hover {
+	background-color: #81b8f0;
+}
+
+
+/* li a {
+	color: black;
+	padding: 12px 26px;
+	display: inline-block;
+	background-color: aqua;
+} */
+
+/* a {
 	color: rgb(32, 56, 236);
 }
 
 a:hover {
 	color: white;
-}
+} */
 
 
 input[type="text"], input[type="textarea"]{
