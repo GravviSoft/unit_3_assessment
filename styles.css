@@ -110,11 +110,6 @@ input[type="checkbox"] {
 	color: white;
 	border: 2px solid white;
 	padding: 12px 26px;
-	transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
-	position: relative;
-	border-radius: 12px;
-	overflow: hidden;
-	box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
 }
 
 .btn-style:hover {
