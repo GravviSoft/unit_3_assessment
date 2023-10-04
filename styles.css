@@ -12,6 +12,9 @@ nav {
 }
 
 
+h1, .p-div{
+	margin: 15px;
+}
 
 ol {
 	padding-left: 0;
